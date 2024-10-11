@@ -1,4 +1,3 @@
-import './style.css'
 document.addEventListener('DOMContentLoaded', async () => {
   const url = 'https://petrik-utazas-default-rtdb.europe-west1.firebasedatabase.app/travelDestinations.json';
   const container = document.getElementById('container');
